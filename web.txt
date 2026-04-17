@@ -1,0 +1,4 @@
+1130 https://ms-default-t1.mugassn.dpdns.org
+
+# Serveo SSH Key Fingerprint:
+# SHA256:QdnshayoqSEkEwNZgU1nwW6btiHe6Y0La2l1j2EQp1w
